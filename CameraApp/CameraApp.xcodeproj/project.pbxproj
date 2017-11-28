@@ -59,15 +59,15 @@
 		0B36197B1F85E0AA00C8E343 /* CameraAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraAppUITests.swift; sourceTree = "<group>"; };
 		0B36197D1F85E0AA00C8E343 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		340993E91FB2C6A000E12B6E /* icons8-advance-filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-advance-filled.png"; path = "/Users/Matthew/Documents/Lavalab/Pina_Colada/CameraApp/CameraApp/icons8-advance-filled.png"; sourceTree = "<absolute>"; };
-		34C0BF401FCDD87900CAEBF9 /* parkit_pages_Page_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_12.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_12.jpg"; sourceTree = "<group>"; };
-		34C0BF421FCDD8B200CAEBF9 /* parkit_pages_Page_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_03.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_03.jpg"; sourceTree = "<group>"; };
-		34C0BF441FCDD8DE00CAEBF9 /* parkit_pages_Page_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_09.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_09.jpg"; sourceTree = "<group>"; };
-		34C0BF461FCDD90F00CAEBF9 /* parkit_pages_Page_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_13.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_13.jpg"; sourceTree = "<group>"; };
-		34C0BF481FCDD95700CAEBF9 /* parkit_pages_Page_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_08.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_08.jpg"; sourceTree = "<group>"; };
-		34C0BF4A1FCDD97500CAEBF9 /* parkit_pages_Page_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_10.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_10.jpg"; sourceTree = "<group>"; };
-		34C203C31FCD371800B6E70D /* 2_Landing Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2_Landing Page.png"; path = "../../../../Downloads/parkit/2_Landing Page.png"; sourceTree = "<group>"; };
-		34C203C51FCD3A2C00B6E70D /* Camera Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Camera Page.png"; path = "../../../../Downloads/Camera Page.png"; sourceTree = "<group>"; };
-		34C61BFE1FCDE2A500B973FA /* car_Page_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = car_Page_3.jpg; path = ../../../../../Downloads/car_Page_3.jpg; sourceTree = "<group>"; };
+		34C0BF401FCDD87900CAEBF9 /* parkit_pages_Page_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_12.jpg; path = Assets.xcassets/parkit_pics/parkit_pages_Page_12.jpg; sourceTree = "<group>"; };
+		34C0BF421FCDD8B200CAEBF9 /* parkit_pages_Page_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_03.jpg; path = Assets.xcassets/parkit_pics/parkit_pages_Page_03.jpg; sourceTree = "<group>"; };
+		34C0BF441FCDD8DE00CAEBF9 /* parkit_pages_Page_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_09.jpg; path = Assets.xcassets/parkit_pics/parkit_pages_Page_09.jpg; sourceTree = "<group>"; };
+		34C0BF461FCDD90F00CAEBF9 /* parkit_pages_Page_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_13.jpg; path = Assets.xcassets/parkit_pics/parkit_pages_Page_13.jpg; sourceTree = "<group>"; };
+		34C0BF481FCDD95700CAEBF9 /* parkit_pages_Page_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_08.jpg; path = Assets.xcassets/parkit_pics/parkit_pages_Page_08.jpg; sourceTree = "<group>"; };
+		34C0BF4A1FCDD97500CAEBF9 /* parkit_pages_Page_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_10.jpg; path = Assets.xcassets/parkit_pics/parkit_pages_Page_10.jpg; sourceTree = "<group>"; };
+		34C203C31FCD371800B6E70D /* 2_Landing Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2_Landing Page.png"; path = "CameraApp/Assets.xcassets/parkit_pics/2_Landing Page.png"; sourceTree = "<group>"; };
+		34C203C51FCD3A2C00B6E70D /* Camera Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Camera Page.png"; path = "CameraApp/Assets.xcassets/parkit_pics/Camera Page.png"; sourceTree = "<group>"; };
+		34C61BFE1FCDE2A500B973FA /* car_Page_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = car_Page_3.jpg; path = Assets.xcassets/parkit_pics/car_Page_3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
