@@ -15,6 +15,15 @@
 		0B3619661F85E0A900C8E343 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B3619641F85E0A900C8E343 /* LaunchScreen.storyboard */; };
 		0B3619711F85E0AA00C8E343 /* CameraAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B3619701F85E0AA00C8E343 /* CameraAppTests.swift */; };
 		0B36197C1F85E0AA00C8E343 /* CameraAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B36197B1F85E0AA00C8E343 /* CameraAppUITests.swift */; };
+		34C0BF411FCDD87A00CAEBF9 /* parkit_pages_Page_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C0BF401FCDD87900CAEBF9 /* parkit_pages_Page_12.jpg */; };
+		34C0BF431FCDD8B200CAEBF9 /* parkit_pages_Page_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C0BF421FCDD8B200CAEBF9 /* parkit_pages_Page_03.jpg */; };
+		34C0BF451FCDD8DE00CAEBF9 /* parkit_pages_Page_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C0BF441FCDD8DE00CAEBF9 /* parkit_pages_Page_09.jpg */; };
+		34C0BF471FCDD90F00CAEBF9 /* parkit_pages_Page_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C0BF461FCDD90F00CAEBF9 /* parkit_pages_Page_13.jpg */; };
+		34C0BF491FCDD95800CAEBF9 /* parkit_pages_Page_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C0BF481FCDD95700CAEBF9 /* parkit_pages_Page_08.jpg */; };
+		34C0BF4B1FCDD97600CAEBF9 /* parkit_pages_Page_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C0BF4A1FCDD97500CAEBF9 /* parkit_pages_Page_10.jpg */; };
+		34C203C41FCD371800B6E70D /* 2_Landing Page.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C203C31FCD371800B6E70D /* 2_Landing Page.png */; };
+		34C203C61FCD3A2C00B6E70D /* Camera Page.png in Resources */ = {isa = PBXBuildFile; fileRef = 34C203C51FCD3A2C00B6E70D /* Camera Page.png */; };
+		34C61BFF1FCDE2A600B973FA /* car_Page_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 34C61BFE1FCDE2A500B973FA /* car_Page_3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +58,16 @@
 		0B3619771F85E0AA00C8E343 /* CameraAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CameraAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B36197B1F85E0AA00C8E343 /* CameraAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraAppUITests.swift; sourceTree = "<group>"; };
 		0B36197D1F85E0AA00C8E343 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		340993E91FB2C6A000E12B6E /* icons8-advance-filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-advance-filled.png"; path = "/Users/Matthew/Documents/Lavalab/Pina_Colada/CameraApp/CameraApp/icons8-advance-filled.png"; sourceTree = "<absolute>"; };
+		34C0BF401FCDD87900CAEBF9 /* parkit_pages_Page_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_12.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_12.jpg"; sourceTree = "<group>"; };
+		34C0BF421FCDD8B200CAEBF9 /* parkit_pages_Page_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_03.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_03.jpg"; sourceTree = "<group>"; };
+		34C0BF441FCDD8DE00CAEBF9 /* parkit_pages_Page_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_09.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_09.jpg"; sourceTree = "<group>"; };
+		34C0BF461FCDD90F00CAEBF9 /* parkit_pages_Page_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_13.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_13.jpg"; sourceTree = "<group>"; };
+		34C0BF481FCDD95700CAEBF9 /* parkit_pages_Page_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_08.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_08.jpg"; sourceTree = "<group>"; };
+		34C0BF4A1FCDD97500CAEBF9 /* parkit_pages_Page_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = parkit_pages_Page_10.jpg; path = "../../../../../Downloads/untitled folder/parkit_pages_Page_10.jpg"; sourceTree = "<group>"; };
+		34C203C31FCD371800B6E70D /* 2_Landing Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2_Landing Page.png"; path = "../../../../Downloads/parkit/2_Landing Page.png"; sourceTree = "<group>"; };
+		34C203C51FCD3A2C00B6E70D /* Camera Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Camera Page.png"; path = "../../../../Downloads/Camera Page.png"; sourceTree = "<group>"; };
+		34C61BFE1FCDE2A500B973FA /* car_Page_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = car_Page_3.jpg; path = ../../../../../Downloads/car_Page_3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +102,8 @@
 				0B36196F1F85E0AA00C8E343 /* CameraAppTests */,
 				0B36197A1F85E0AA00C8E343 /* CameraAppUITests */,
 				0B3619561F85E0A900C8E343 /* Products */,
+				34C203C51FCD3A2C00B6E70D /* Camera Page.png */,
+				34C203C31FCD371800B6E70D /* 2_Landing Page.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -102,6 +123,14 @@
 				0B3619581F85E0A900C8E343 /* AppDelegate.swift */,
 				0B36195A1F85E0A900C8E343 /* ViewController.swift */,
 				0B36195C1F85E0A900C8E343 /* Main.storyboard */,
+				34C61BFE1FCDE2A500B973FA /* car_Page_3.jpg */,
+				34C0BF4A1FCDD97500CAEBF9 /* parkit_pages_Page_10.jpg */,
+				34C0BF481FCDD95700CAEBF9 /* parkit_pages_Page_08.jpg */,
+				34C0BF461FCDD90F00CAEBF9 /* parkit_pages_Page_13.jpg */,
+				34C0BF441FCDD8DE00CAEBF9 /* parkit_pages_Page_09.jpg */,
+				34C0BF421FCDD8B200CAEBF9 /* parkit_pages_Page_03.jpg */,
+				34C0BF401FCDD87900CAEBF9 /* parkit_pages_Page_12.jpg */,
+				340993E91FB2C6A000E12B6E /* icons8-advance-filled.png */,
 				0B3619621F85E0A900C8E343 /* Assets.xcassets */,
 				0B3619641F85E0A900C8E343 /* LaunchScreen.storyboard */,
 				0B3619671F85E0A900C8E343 /* Info.plist */,
@@ -235,9 +264,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34C0BF431FCDD8B200CAEBF9 /* parkit_pages_Page_03.jpg in Resources */,
+				34C61BFF1FCDE2A600B973FA /* car_Page_3.jpg in Resources */,
+				34C0BF451FCDD8DE00CAEBF9 /* parkit_pages_Page_09.jpg in Resources */,
+				34C0BF491FCDD95800CAEBF9 /* parkit_pages_Page_08.jpg in Resources */,
+				34C203C41FCD371800B6E70D /* 2_Landing Page.png in Resources */,
 				0B3619661F85E0A900C8E343 /* LaunchScreen.storyboard in Resources */,
+				34C0BF4B1FCDD97600CAEBF9 /* parkit_pages_Page_10.jpg in Resources */,
 				0B3619631F85E0A900C8E343 /* Assets.xcassets in Resources */,
+				34C0BF471FCDD90F00CAEBF9 /* parkit_pages_Page_13.jpg in Resources */,
 				0B36195E1F85E0A900C8E343 /* Main.storyboard in Resources */,
+				34C0BF411FCDD87A00CAEBF9 /* parkit_pages_Page_12.jpg in Resources */,
+				34C203C61FCD3A2C00B6E70D /* Camera Page.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,10 +469,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 989A7669WA;
+				DEVELOPMENT_TEAM = U7587JN37S;
 				INFOPLIST_FILE = CameraApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Hunter.CameraApp;
+				PRODUCT_BUNDLE_IDENTIFIER = Matthew.CameraApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -446,10 +485,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 989A7669WA;
+				DEVELOPMENT_TEAM = U7587JN37S;
 				INFOPLIST_FILE = CameraApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Hunter.CameraApp;
+				PRODUCT_BUNDLE_IDENTIFIER = Matthew.CameraApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
